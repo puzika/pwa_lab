@@ -21,6 +21,12 @@ html {
    box-sizing: border-box;
 }
 
+@media screen and (max-width: 900px) {
+   html {
+      font-size: 55%;
+   } 
+}
+
 body {
    font-family: Arial, Helvetica, sans-serif;
    font-size: 2rem;

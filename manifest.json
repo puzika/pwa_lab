@@ -1,6 +1,8 @@
 {
    "name": "Password Manager",
+   "short_name": "Passworder",
    "start_url": "/index.html",
+   "id": "/index.html",
    "display": "standalone",
    "orientation": "natural",
    "background_color": "#333",
